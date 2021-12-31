@@ -1,0 +1,46 @@
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+header.masthead .masthead-content {
+  z-index: 1;
+  position: relative;
+}
+
+.bg-blue {
+  background-color: #296b91 !important;
+}
+
+.container img {
+  padding-bottom: 2rem;
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+.btn-primary {
+  border: 1px solid #275b95;
+  background-color: #275b95;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #275b95;
+  background-color: transparent;
+  border-color: #275b95;
+}
+
+.btn-primary:focus {
+  box-shadow: 0.2rem 0 0 0.2rem rgbs(39,91,149, 1.0);
+}
