@@ -15,7 +15,7 @@ header.masthead .masthead-content {
 }
 
 .bg-blue {
-  background-color: #296b91 !important;
+  background-color: #005bd5 !important;
 }
 
 .container img {
@@ -31,16 +31,16 @@ header.masthead .masthead-content {
 }
 
 .btn-primary {
-  border: 1px solid #275b95;
-  background-color: #275b95;
+  border: 1px solid #1773d3;
+  background-color: #1773d3;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  color: #275b95;
+  color: #1773d3;
   background-color: transparent;
-  border-color: #275b95;
+  border-color: #1773d3;
 }
 
 .btn-primary:focus {
-  box-shadow: 0.2rem 0 0 0.2rem rgbs(39,91,149, 1.0);
+  box-shadow: 0.2rem 0 0 0.2rem rgbs(23, 115, 211, 1.0);
 }
